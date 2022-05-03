@@ -26,3 +26,7 @@ go.work
 # bak
 *.bak
 *.swp
+*.DS_Store
+
+
+
