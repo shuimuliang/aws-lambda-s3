@@ -1,0 +1,5 @@
+apiserver:
+  debug: false
+  listenAddr: "0.0.0.0:1230"
+  logInfoPath: "/tmp/app-info.log"
+  logErrPath: "/tmp/app-err.log"

@@ -175,6 +175,13 @@ aws lambda --profile test create-function --function-name ThumbnailGo --runtime 
   --role arn:aws:iam::566009277786:role/lambda-s3-role-nft
 ```
 
+Lambda配置 -> 环境变量
+
+|字段|数值|说明|
+|:-----|:------|:-----------------------------|
+|DestinationBucket | nftavatar.ascendex.io| |
+|ThumbSets | 96x96,48x48| |
+
 ### Build AWS Lambda function
 
 ```sh

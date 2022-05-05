@@ -16,6 +16,11 @@
 ## apiserver
 
 ## cmd
+起服务器, 默认端口1230
+```sh
+cd cmd
+sh run.sh
+```
 
 ## doc
 
